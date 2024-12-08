@@ -1,0 +1,16 @@
+Package: WilsonWorldPopulation
+Type: Package
+Title: STA 445 Final Package
+Version: 0.1.0
+Author: Landon Wilson
+Maintainer: The package maintainer <liw24@nau.edu>
+Description: Contains data sets on country population and world cup attendance aswell as functions to see population growth over time
+License: No license
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.3.2
